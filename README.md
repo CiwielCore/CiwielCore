@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:7B8D93,100:4A90E2&height=200&section=header&text=X%20I%20M%20O&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20%26%20Game%20Developer&descSize=20&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:7B8D93,100:4A90E2&height=200&section=header&text=XIMO&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20%26%20Game%20Developer&descSize=22&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4A90E2&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=🚗+FiveM+%26+RageMP+Specialist;💻+VS+Code+Extension+Master;🎮+Discord+Rich+Presence+Creator;🇭🇺+Hungarian+Gaming+Innovator;⚡+Building+Virtual+Worlds+Daily;🔥+Currently+Online+%26+Coding!" alt="Dynamic Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4A90E2&background=0D111700&center=true&vCenter=true&width=650&height=80&lines=🚗+FiveM+%26+RageMP+Specialist;💻+VS+Code+Extension+Master;🎮+Discord+Rich+Presence+Creator;🇭🇺+Hungarian+Gaming+Innovator;⚡+Building+Virtual+Worlds+Daily;🔥+Currently+Online+%26+Coding!" alt="Dynamic Status" />
 
 <!-- Real-time coding activity -->
 <img src="https://lanyard.cnrad.dev/api/788282458754777119" alt="Discord Status" width="300"/>
@@ -13,7 +13,11 @@
 
 <div align="center">
 
-## 🎯 **About Me**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=400&height=60&lines=🎯+About+Ximo" alt="About Me Header" />
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
