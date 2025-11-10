@@ -6,11 +6,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=700&height=70&lines=🚗+FiveM+%26+RageMP+Specialist;💻+VS+Code+Extension+Master;🎯+Discord+Rich+Presence+Creator;🔥+Building+Virtual+Worlds+Since+2020;⚡+Currently+Online+%26+Coding!" alt="Dynamic Status" />
 
-<!-- Discord Status - Live Activity Display -->
-<img src="https://lanyard.cnrd.dev/api/788282458754777119?theme=dark&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20epic..." alt="Discord Status" width="400"/>
+<!-- Discord Status - Testing Alternative -->
+<!-- <img src="https://lanyard.cnrad.dev/api/788282458754777119?theme=dark&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20epic..." alt="Discord Status" width="400"/> -->
 
-<!-- Alternative Discord Status (backup option) -->
-<!-- <img src="https://discord.c99.nl/widget/theme-2/788282458754777119.png" alt="Discord Status Alternative" width="400"/> -->
+<!-- Alternative Discord Status Widget -->
+<img src="https://lanyard-profile-readme.vercel.app/api/788282458754777119?theme=dark&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=30px" alt="Discord Status" width="400"/>
+
+<!-- Simple Discord Badge (always works) -->
+<img src="https://dcbadge.vercel.app/api/discord/788282458754777119" alt="Discord Badge" />
+<img src="https://img.shields.io/badge/Discord-Ximo%23ID-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contact"/>
 
 <img src="https://img.shields.io/badge/🎮-Currently%20Online-brightgreen?style=for-the-badge&labelColor=1e1e2e&color=4A90E2" />
 <img src="https://img.shields.io/badge/☕-Coffee%20Powered-brown?style=for-the-badge&labelColor=1e1e2e&color=8B4513" />
