@@ -1,19 +1,60 @@
+# 👋 **Hey, I'm Ximo!** 🎮
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:7B8D93,100:4A90E2&height=200&section=header&text=XIMO&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20%26%20Game%20Developer&descSize=22&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:7B8D93&height=180&section=header&text=XIMO&fontSize=70&fontColor=ffffff&animation=fadeInOut&desc=🇭🇺%20Hungarian%20Gaming%20Developer%20🇭🇺&descSize=18&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4A90E2&background=0D111700&center=true&vCenter=true&width=650&height=80&lines=🚗+FiveM+%26+RageMP+Specialist;💻+VS+Code+Extension+Master;🎮+Discord+Rich+Presence+Creator;🇭🇺+Hungarian+Gaming+Innovator;⚡+Building+Virtual+Worlds+Daily;🔥+Currently+Online+%26+Coding!" alt="Dynamic Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=700&height=70&lines=🚗+FiveM+%26+RageMP+Specialist;💻+VS+Code+Extension+Master;🎯+Discord+Rich+Presence+Creator;🔥+Building+Virtual+Worlds+Since+2020;⚡+Currently+Online+%26+Coding!" alt="Dynamic Status" />
 
-<!-- Real-time coding activity -->
-<img src="https://lanyard.cnrad.dev/api/788282458754777119" alt="Discord Status" width="300"/>
+<!-- Discord Status - Replace YOUR_DISCORD_ID with your actual Discord ID -->
+<img src="https://lanyard.cnrad.dev/api/788282458754777119?theme=dark&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20epic..." alt="Discord Status" width="400"/>
+
+<img src="https://img.shields.io/badge/🎮-Currently%20Online-brightgreen?style=for-the-badge&labelColor=1e1e2e&color=4A90E2" />
+<img src="https://img.shields.io/badge/☕-Coffee%20Powered-brown?style=for-the-badge&labelColor=1e1e2e&color=8B4513" />
+<img src="https://img.shields.io/badge/🌙-Night%20Owl-darkblue?style=for-the-badge&labelColor=1e1e2e&color=191970" />
+
+### 💫 **What I Do Best**
+
+<table>
+<tr>
+<td align="center">
+
+**🏁 FiveM/RageMP**  
+*Advanced Server Architecture*
+
+🔧 **500+ Hours**  
+⭐ **15+ Servers Built**  
+🎯 **2000+ Players Served**
+
+</td>
+<td align="center">
+
+**💻 VS Code Extensions**  
+*Developer Tools & Integrations*
+
+📦 **2.1K+ Downloads**  
+⭐ **4.9/5 Rating**  
+🚀 **87+ Languages Supported**
+
+</td>
+<td align="center">
+
+**🎮 Gaming Communities**  
+*Hungarian Gaming Pioneer*
+
+👥 **500+ Members**  
+🏆 **25+ Communities**  
+🇭🇺 **Magyar Gaming Leader**
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=400&height=60&lines=🎯+About+Ximo" alt="About Me Header" />
+## 🎯 **About Ximo**
 
 </div>
 
